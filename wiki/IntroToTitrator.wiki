@@ -1,0 +1,11 @@
+#summary One-sentence summary of this page.
+#labels Titrator,Titration,Equilibrium,Chemistry,Education,Simulation
+
+= Introduction to Titrator=
+
+        Titrator is a chemical equilibrium simulator for teaching aqueous chemistry and predicting equilibrium concentrations in biological, geochemical and environmental systems.  Titrator models aquatic equilibria, simulates laboratory titrations, and calculates speciation as a function of a "master variable" such as pH or electrochemical potential. The user may vary total or ‘free’ chemical concentrations, ionic strength, temperature or reaction constants (ΔHo, ΔSo, log K) to determine their effects on equilibrium speciation.  Titrator is suitable for rapid calculation of small systems, and can export calculation results to spreadsheets or similar programs for further analysis; it does not include a thermodynamic database, so users must supply their own thermodynamic data or formation constants.  
+
+        Titrator runs under Windows XP and Vista, but has not been tried using earlier Windows versions.  The present version of the program (Titrator 3.00) has had very limited testing.  Please inform the author (cabaniss@unm.edu) of any observed problems.
+
+
+
