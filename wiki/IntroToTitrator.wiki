@@ -8,6 +8,6 @@
         Titrator runs under Windows XP and Vista, but has not been tried using earlier Windows versions.  The present version of the program (Titrator 3.00) has had very limited testing.  Please inform the author (cabaniss@unm.edu) of any observed problems.
 
 ==Related Pages==
-[ProgramGuide Programmers]
+[ProgrammerGuide Programmers]
 [UserGuide Students and Users]
 [TeacherGuide Teachers] 
