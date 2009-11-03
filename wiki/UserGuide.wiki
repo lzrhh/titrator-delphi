@@ -8,5 +8,7 @@ Add your content here.
 == Links ==
 
 [IntroToTitrator Back to the introduction]
+
 [ProgrammerGuide Information for programmers]
+
 [TeacherGuide Information for teachers]
