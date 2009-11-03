@@ -2,7 +2,7 @@
 
 = Programmers Guide =
 
-Titrator is written in Delphi Pascal, the successor langugage of Turbo Pascal, currently owned and supported by Embarcadero Technologies [http://www.embarcadero.com],
+Titrator is written in Delphi Pascal, the successor langugage of Turbo Pascal, currently owned and supported by  [http://www.embarcadero.com Embarcadero Technologies],
 
 = Details =
 
