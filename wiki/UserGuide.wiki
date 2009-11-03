@@ -1,8 +1,10 @@
 #summary Information for students and other users
+#labels Phase-Deploy
 
 = Introduction =
 
-Add your content here.
+Titrator is intended for teaching applications and simple simulations, and does not contain a thermodynamic database.  If you need a full-featured equilibrium program with a database for environmental or geochemical modeling, you may wish to consider using [Visual Minteq], [PHREEQc] or some other program.
+
 
 
 == Links ==
