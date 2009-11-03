@@ -3,7 +3,7 @@
 
 = Introduction =
 
-Titrator is intended for teaching applications and simple simulations, and does not contain a thermodynamic database.  If you need a full-featured equilibrium program with a database for environmental or geochemical modeling, you may wish to consider using [Visual Minteq], [PHREEQc] or some other program.
+Titrator is intended for teaching applications and simple simulations, and does not contain a thermodynamic database.  If you need a full-featured equilibrium program with a database for environmental or geochemical modeling, you may wish to consider using [http://www.lwr.kth.se/English/OurSoftware/vminteq/ Visual Minteq], [www.epa.gov/ceampubl/mmedia/minteq/ MINTEQA2], [http://wwwbrr.cr.usgs.gov/projects/GWC_coupled/phreeqc/ PHREEQc] or a similar program.
 
 
 
